@@ -1,0 +1,6 @@
+# Unimportant directories : 
+logs/ 
+test/
+
+# Files : 
+.log

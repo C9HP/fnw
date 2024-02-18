@@ -1,0 +1,65 @@
+body { background-color : darkblue; margin: 0; color: white; font-family: Arial; margin-top: 0 ;}
+* {box-sizing:border-box;}
+.StartDiv {background-color:dodgerblue;
+display: flex; 
+align-items:center; justify-content:center;
+width:100%; height:120px; color:white; }
+#StartDivH2 {text-align: center;}
+.BigDiv {background-color:rgb(30,30,30);
+  width: 100%; height : auto ; color: white ; padding : 14px ; }
+.NormalH4 { color : #aacaff ; }
+.NormalP {padding : 0 0 0 12px ; font-size : 14px ; }
+.AlertDiv { background-color : RGBA(255 , 0 , 0 , 0.1 ) ;
+color : red ; width : 100% ; height : auto ; padding : 15px ;
+font-size : 16px ; }
+.PaddingP { padding : 15px ; font-size : 14px ; }
+.AlertText { color : }
+.WarningText { color : orange ; }
+.InfoText { color : dodgerblue ; }
+.AlertText { color : red ; font-style : bold ; }
+.NormalImg { width : 100% ; height : auto ;}
+.CarefulText { color : #ff808a ; }
+.NormalIcon { color : white ; font-size : 18px ; padding : 8px ; } * { box-sizing : border-box ; }
+.NavBtn { background-color : #00000000 ; padding : 2px ; margin : 2px 1px 0 0 ; }
+#NavBtn-Home { Heigt : auto ; float : left ;
+ border-style : solid ; border-color : dodgerblue ;
+ border-radius : 5px ; }
+#NavBtn-Search { border-style : solid solid solid hidden ;
+ border-color : dodgerblue ; border-radius : 5px ; Height : auto ; }
+#NavUserBtn { color : White ; height : auto ; float : right ;
+ Background-color : #00000000 ; border-width : 2px ; 
+border-radius : 50px ; border-style : solid ; border-color : 
+ rgba( 0 , 150 , 255 , 1.0 ) ; margin : 2px 1px 0 0 ; }
+#NavUserBtn:active  { Background-color : rgba( 20 , 140 , 255 , 1 ) ; }
+#NavUserBtn:hover { background-color : rgba( 20 , 140 , 255 , 0.1)}
+#NavBtn-Search:hover { Background-color : rgba( 20 , 140 , 255 , 0.1 ) ; }
+#NavBtn-Home:hover , NavBtn-Home:active {
+   Background-color : rgba( 20 , 140 , 255 , 0.1 ) ;}
+#NavBtn-Home:Active { Background-color : RGBA(20 , 140 , 255 , 1 ) ; }
+#NavBtn-Search:active { background-color : dodgerblue;}
+#NavUserIcon { font-size : 15 ; }
+#Sticky {background-color : #252525 ; height : auto ; width : 100% ; position : sticky ; top : 0 ; }
+#OtherDiv { width : 100% ; height : auto ; background-color :  #191919 ; padding : 14px ; }
+#FooterDiv { width : 100% ; height : auto ; padding :
+ 15px ; background-color : #0c0c0c ; color : white ; }
+.FooterP { font-size : 14px ; text-align : center ; color : #bbb ; }
+.paeenA { Background-color : rgba( 0 , 0 , 0 , 0.2 ) ; 
+width : 100% ; height : auto ; border-style : none solid
+solid solid ; border-width : 2px ; border-color : gray ;
+border-radius : 20px ; }
+.paeenA:hover { background-color : RGBA( 255 , 255 , 255 , 0.1 ) ; }
+.paeenA:active { background-color : rgba(0,0,0,0.0.1) ; }
+#balaI1 { display : none ; }
+.normIcon { color : white ; }
+.tdContent { text-align : center ; }
+.tdIcon { text-align : center ; }
+a:link { color : dodgerblue ; }    
+a:visited { color : #ffa96a ; }
+a:hover { color : dodgerblue ; }
+.FooCon { color : white ; font-size : 20px ; }
+.invisible { padding : 14px ; font-size : 12px ; width :
+100% ;  border-style : none solid solid solid ; 
+height : auto ; border-color : white ; border-wudth : 2px ; 
+border-radius : 0 0 20px 20px ; color : white ; 
+transition : 0.6 ; display : none ; }
+#uppp {width: 100%; height: 35px; background-color: blue;}

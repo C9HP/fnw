@@ -3,4 +3,5 @@ logs/
 test/
 
 # Files : 
-.log
+*.log
+*.swp 
